@@ -1,0 +1,22 @@
+.listItem {
+	list-style: none;
+}
+
+.btns {
+	display: flex;
+	gap: 32px;
+}
+
+.btn {
+	width: 60px;
+	border: 2px solid black;
+	
+}
+
+.pColor {
+	color: blueviolet;
+}
+
+.pColor2 {
+	color: blue;
+}
